@@ -1,6 +1,6 @@
 import { Facebook, Instagram, Linkedin, Mail, MailCheck, MapPin, Phone, Send } from "lucide-react"
 import {cn} from '@/lib/utils';
-import emailjs from 'emailjs-com';
+import emailjs from '@emailjs/browser';
 import { useRef } from "react";
 import { toast } from 'react-toastify';
 
