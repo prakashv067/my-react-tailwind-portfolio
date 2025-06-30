@@ -7,7 +7,7 @@ export const Footer = () => {
             &copy; {new Date().getFullYear()} Prakashvishwakarma.co, All Rights Reserved.
         </p>
 
-        <a href="hero" className="p-2 rounded-full bg-blue-700 hover:bg-blue-500" text-primary transition-colors>
+        <a href="#hero" className="p-2 rounded-full bg-blue-700 hover:bg-blue-500" text-primary transition-colors>
             <ArrowUp size={20} />
         </a>
     </footer>
