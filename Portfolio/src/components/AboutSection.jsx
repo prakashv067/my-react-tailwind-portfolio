@@ -31,7 +31,7 @@ export const AboutSection = () => {
                         className="cosmic-button bg-red-600"
                         >Get In Touch</a>
 
-                        <a href="/Prakash.pdf" 
+                        <a href="/PrakashResume.pdf" 
                         download="PrakashResume.pdf"
                         className="px-6 py-2 rounded-full border border-blue-400 text-blue-600
                         transition-all duration-300 hover:shadow-[0_0_10px_rgba(139,92,246,0.5)]
